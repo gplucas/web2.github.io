@@ -12,5 +12,8 @@
             <input type="number" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
        </div>
        </div>
+    <input type="number" id="inputfield1" />
+    <input type="number" id="inputfield2" />
+    <button onclick="compare()">Calcular</button>
   </body>
 </html>
