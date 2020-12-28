@@ -11,5 +11,6 @@
             <span class="input-group-text" id="inputGroup-sizing-sm">campo2</span>
             <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
        </div>
+       </div>
   </body>
 </html>
