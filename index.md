@@ -4,7 +4,11 @@
     <p>Hello, world!</p>
     <p></p>
     <p>Visit <a href="https://www.harvard.edu/">Harvard</a></p>
-    <label for="number">Digite aqui</label>
-    <input type="number" id="quantity" name="quantity">
+    <p></p>
+     <form action="/action_page.php">
+       <label for="quantity">Número:</label>
+       <input type="number" id="quantity" name="quantity">
+       <input type="submit">
+    </form>
   </body>
 </html>
