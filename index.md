@@ -1,6 +1,6 @@
 <html lang="en">
   <body>
-    Hello, world!;
-    Visit<a href="https://www.harvard.edu/">Harvard</a>
+    Hello, world!
+    <p>Visit<a href="https://www.harvard.edu/">Harvard</a></p>
   </body>
 </html>
