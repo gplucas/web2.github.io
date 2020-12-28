@@ -12,9 +12,10 @@
             <input type="number" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
        </div>
        </div>
-               <input type="number" id="inputfield1" />
-               +<input type="number" id="inputfield2" />
-               <button onclick="compare()">Calcular</button>
-               =<output number="compare()"></output>
+               <form oninput="x.value=parseInt(a.value)+parseInt(b.value)">
+               <input type="range" id="a" value="50">
+               +<input type="number" id="b" value="25">
+               =<output name="x" for="a b"></output>
+               </form>
   </body>
 </html>
