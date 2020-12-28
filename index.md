@@ -5,7 +5,7 @@
     <p></p>
     <p style="text-align:center;">Visit <a href="https://www.harvard.edu/">Harvard</a></p>
        <div style="text-align:left;" class="input-group input-group-sm mb-3">
-       <span class="input-group-text" id="inputGroup-sizing-sm">Small</span>
+       <span class="input-group-text" id="inputGroup-sizing-sm">campo1</span>
        <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-sm">
        </div>
   </body>
