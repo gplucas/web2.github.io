@@ -1,4 +1,7 @@
 <html lang="en">
+ <div class="alert alert-primary" role="alert">
+ A simple primary alert—check it out!
+ </div>
   <body style="text-align:center;">
     <p>Hello, world!</p>
     <p></p>
