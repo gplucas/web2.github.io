@@ -12,5 +12,6 @@
             <input type="value" id="inputfield1" />
             <input type="value" id="inputfield2" />
             <button onclick="compare()">Compare</button>
+            <output name="x" for="inputfield1 inputfield2"></output>
   </body>
 </html>
