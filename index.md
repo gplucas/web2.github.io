@@ -7,7 +7,7 @@
          <form oninput="x.value=parseInt(b.value)-parseInt(a.value)">
          <input type="number" id="a">
          <input type="number" id="b">
-         <num.toLocaleString('en', {useGrouping:true})>
+         num.toLocaleString('en', {useGrouping:true})
          <output name="x" for="a b"></output>
          </form>
   </body>
