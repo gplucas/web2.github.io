@@ -8,8 +8,8 @@
          <input type="number" id="a">
          <input type="number" id="b">
          <output name="x" for="a b"></output>
-            <input type="number" id="inputfield1" />
-            <input type="number" id="inputfield2" />
+            <input type="value" id="inputfield1" />
+            <input type="value" id="inputfield2" />
             <button onclick="compare()">Compare</button>
          </form>
   </body>
