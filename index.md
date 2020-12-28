@@ -13,8 +13,8 @@
        </div>
        </div>
                <input type="number" id="inputfield1" />
-               <input type="number" id="inputfield2" />
+               +<input type="number" id="inputfield2" />
                <button onclick="compare()">Calcular</button>
-               <output number="compare() for="inputfield1 inputfield2"></output>
+               =<output number="compare() for="inputfield1 inputfield2"></output>
   </body>
 </html>
