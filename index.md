@@ -4,7 +4,7 @@
     <p style="text-align:center;">Hello, world!</p>
     <p></p>
     <p style="text-align:center;">Visit <a href="https://www.harvard.edu/">Harvard</a></p>
-         <function numberWithCommas(x)>
+         function numberWithCommas(x)
     {
          return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
     }
