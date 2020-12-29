@@ -1,13 +1,8 @@
 <html lang="en">
-  <body>
-    <h2 style="text-align:center;">Project under development.</h2>
-    <p style="text-align:center;">Hello, world!</p>
+  <body style="text-align:center;">
+    <h2>Project under development.</h2>
+    <p>Hello, world!</p>
     <p></p>
-    <p style="text-align:center;">Visit <a href="https://www.harvard.edu/">Harvard</a></p>
-         <form oninput="x.value=parseInt(b.value)-parseInt(a.value)">
-         <input type="number" id="a">
-         <input type="number" id="b">
-         <output name="x" for="a b"></output>
-         </form>
+    <p>Visit <a href="https://www.harvard.edu/">Harvard</a></p>
   </body>
 </html>
