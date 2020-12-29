@@ -1,9 +1,3 @@
-<html lang="en-US">
-<head>
-	<meta charset="UTF-8">
-	<title>Subtract Two Numbers In HTML/JavaScript</title>
-</head>
-<body>
 <div class="form-group col-lg-6">
     <label for="exampleInputText">Total Price</label>
     <input type="text" name="totalval" class="form-control" id="totalval" onchange="updateDue()">
@@ -20,5 +14,3 @@
 <script type="text/javascript">
 
 </script>
-</body>
-</html>
