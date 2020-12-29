@@ -7,7 +7,7 @@
          <form oninput="x.value=parseInt(b.value)-parseInt(a.value)">
          <input type="number" id="a">
          <input type="number" id="b">
-         <output name="x" for="a b"></output>
+         <output name="x"></output>
          </form>
   </body>
 </html>
