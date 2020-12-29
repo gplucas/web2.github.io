@@ -4,6 +4,7 @@
     <p style="text-align:center;">Hello, world!</p>
     <p></p>
     <p style="text-align:center;">Visit <a href="https://www.harvard.edu/">Harvard</a></p>
+              <link rel="charset" href:"test_code.md"
          <form oninput="x.value=parseInt(b.value)-parseInt(a.value)">
          <input type="number" id="a">
          <input type="number" id="b">
