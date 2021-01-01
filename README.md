@@ -1,3 +1,9 @@
 # web.github.io
 
-Atualizado 27/12/2020, 28/12/2020, 29/12/2020, 30/12/2020
+This is a simple resource to calculate the following things:
+- Total flight time
+- Total fuel burned
+
+I am working on this project to provide support to general aviation pilots.
+
+Work in progress since December 27, 2020.
