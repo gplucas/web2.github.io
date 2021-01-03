@@ -1,5 +1,4 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-			<body>
+				<body>
 					<input type="text" id="txt0" placeholder="Date">
 				<br><br>
 					<input type="text" id="txt" placeholder="Departure">
