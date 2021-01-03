@@ -21,4 +21,3 @@
 				 <button onclick="calculate1()">Calculate</button><br><br>
 				 <p id="answer1"></p>					 
 			<script src="script.md"></script>
-			<script src="table.md"></script>
