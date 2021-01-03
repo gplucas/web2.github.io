@@ -19,6 +19,6 @@
 				 <p id="answer1"></p>
 			         	<script src="script.md"></script>
 					
-					<a href="gplucas/web2.github.io/g58/S1 General.pdf" target="_blank">SECTION 1 - General</a>
+					<a href="gplucas.github.io/g58/s1_general.pdf" target="_blank">SECTION 1 - General</a>
 	</body>
 </html>
