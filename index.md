@@ -18,5 +18,7 @@
 				 <button onclick="calculate1()">Calculate</button><br><br>
 				 <p id="answer1"></p>
 			         	<script src="script.md"></script>
+						
+						<a href="https://gplucas.github.io/web2.github.io/g58/s1_general.pdf" class="image fit"></a>
 	</body>
 </html>
