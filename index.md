@@ -19,6 +19,14 @@
 				 <p id="answer1"></p>
 			         	<script src="script.md"></script>
 						
+						<ul class="list-group">
+  <li class="list-group-item"><a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s1_general.pdf">SECTION 1 - General</a></li>
+  <li class="list-group-item">Dapibus ac facilisis in</li>
+  <li class="list-group-item">Morbi leo risus</li>
+  <li class="list-group-item">Porta ac consectetur ac</li>
+  <li class="list-group-item">Vestibulum at eros</li><br><br><br><br><br>
+
+						
 						<a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s1_general.pdf">SECTION 1 - General</a><br>
 						<a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s2_limitations.pdf">SECTION 2 - Limitations</a><br>
 						<a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s3_emergency_procedures.pdf">SECTION 3 - Emergency Procedures</a><br>
@@ -28,5 +36,8 @@
 						<a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s6_weight_and_balance_and_equipment_list.pdf">SECTION 6 - Weight and Balance/Equipment List</a><br>
 						<a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s7_system_description.pdf">SECTION 7 - Systems Description</a><br>
 						<a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s8_handling_serv_%26_maint.pdf">SECTION 8 - Handling, Serv & Maint</a><br>
+						
+						// Fechar a tag de ul class
+						
 	</body>
 </html>
