@@ -19,6 +19,6 @@
 				 <p id="answer1"></p>
 			         	<script src="script.md"></script>
 						
-						<a href="https://gplucas.web2.github.io/g58/s1_general.pdf" class="image fit">Click here!</a>
+						<a href="https://gplucas.web2.github.io/g58/s1_general.pdf" type="application/pdf">Click here!</a>
 	</body>
 </html>
