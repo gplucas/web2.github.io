@@ -18,7 +18,7 @@
 				 <button onclick="calculate1()">Calculate</button><br><br>
 				 <p id="answer1"></p>
 			         	<script src="script.md"></script>
-						
+					<p class="fw-bold">Beechcraft Baron G58 Library (Reference only)</p>	
 					<ul class="list-group">
   <li class="list-group-item"><a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s1_general.pdf">SECTION 1 - General</a></li>
   <li class="list-group-item"><a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s2_limitations.pdf">SECTION 2 - Limitations</a></li>
