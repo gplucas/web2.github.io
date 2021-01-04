@@ -19,6 +19,6 @@
 				 <p id="answer1"></p>
 			         	<script src="script.md"></script>
 						
-						<a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s1_general.pdf target="_blank"">Click here!</a>
+						<a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s1_general.pdf target="_blank">Click here!</a>
 	</body>
 </html>
