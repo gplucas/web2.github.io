@@ -25,7 +25,7 @@
 						<a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s3a_abnormal_procedures.pdf">SECTION 3A - Abnormal Procedures</a>
 						<a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s4_normal_procedures.pdf">SECTION 4 - Normal Procedures</a>
 						<a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s5_performance.pdf">SECTION 5 - Performance</a>
-						<a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s6_weight_and_balance_and_equipment_list.pdf">SECTION 6 - WEIGHT AND BALANCE/EQUIPMENT LIST</a>
+						<a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s6_weight_and_balance_and_equipment_list.pdf">SECTION 6 - Weight and Balance/Equipment List</a>
 						<a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s7_system_description.pdf">SECTION 7 - Systems Description</a>
 						<a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s8_handling_serv_%26_maint.pdf">SECTION 8 - Handling, Serv & Maint</a>
 	</body>
