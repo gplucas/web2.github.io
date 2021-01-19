@@ -1,6 +1,6 @@
 # Flight Support
 
-This is a simple website to calculate:
+A simple website to help you calculate:
 - Total flight time
 - Total fuel burned
 
