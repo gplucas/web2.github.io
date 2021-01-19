@@ -30,6 +30,5 @@
   <li class="list-group-item"><a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s7_system_description.pdf">SECTION 7 - Systems Description</a></li>		
   <li class="list-group-item"><a href="https://nbviewer.jupyter.org/github/gplucas/web2.github.io/blob/main/g58/s8_handling_serv_%26_maint.pdf">SECTION 8 - Handling, Serv & Maint</a></li>				
 		</ul><br>
-				 <p>This is a personal project under tests and the developer is not responsible for possible errors. Always perform a crosscheck to improve your safety margin.</p>
 	</body>
 </html>
