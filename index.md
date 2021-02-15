@@ -2,6 +2,7 @@
 	<body style="text-align:center;">
         <h2>Flight Support</h2>
 	<h5>Helping you keep your documentation up to date.</h5><br>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 				 <p class="fw-bold">Calculate the total flight time</p>
 		      		 <input type="number" id="num1" placeholder="Hobbs before start">
 				 <input type="number" id="num2" placeholder="Hobbs after shutdown">
