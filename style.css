@@ -1,7 +1,7 @@
 .header {
-  padding: 80px; /* some padding */
+  padding: 40px; /* some padding */
   text-align: center; /* center the text */
-  background: #1abc9c; /* green background */
+  background: #f2f2f2; /* green background */
   color: white; /* white text color */
 }
 
