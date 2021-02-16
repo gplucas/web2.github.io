@@ -1,8 +1,8 @@
 .header {
-  padding: 1px; /* some padding */
+  padding: 0.1px; /* some padding */
   text-align: center; /* center the text */
-  background: #f2f2f2; /* green background */
-  color: black; /* white text color */
+  background: #f2f2f2; /* gray background */
+  color: black; /* black text color */
 }
 
 /* Increase the font size of the <h1> element */
