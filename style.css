@@ -7,11 +7,7 @@
 
 /* Increase the font size of the <h1> element */
 .header h1 {
-  font-size: 170%; /*40px anterior*/
-}
-
-.header h3 {
-  font-size: 130%;
+  font-size: 170%;
 }
 
 /* Style the top navigation bar */
