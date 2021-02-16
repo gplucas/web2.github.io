@@ -1,6 +1,6 @@
 # Flight Support
 
-A simple website to help you calculate:
+Resources available:
 - Total flight time
 - Total fuel burned
 
@@ -8,6 +8,11 @@ A simple website to help you calculate:
 
 - Presentation time from flight crew
 - Spredsheet generator to Pilot and Airplane logbook
+- Fuel conversion
+- Weight conversion
+- Weather report (METAR/TAF)
+- Satellite images for weather observation
+- Aerodrome information
 
 # Bonus
 
