@@ -10,6 +10,10 @@
   font-size: 170%; /*40px anterior*/
 }
 
+.header h3 {
+  font-size: 130%;
+}
+
 /* Style the top navigation bar */
 .navbar {
   overflow: hidden; /* Hide overflow */
