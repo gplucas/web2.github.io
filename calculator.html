@@ -38,11 +38,11 @@
 				 <p id="answer1"></p>
 			         <script src="script.md"></script>
 		    
-		    		 <p>From KG to LB</p>
-		   	         <input type="number" id="kg" placeholder="Kilograms">
-				 <button onclick="calculatekgtolb()">Convert</button><br>
-				 <p id="answerkgtolb"></p>
-			         <script src="script2.md"></script>
+		    		 <p>From LB to KG</p>
+		   	         <input id="inputPounds" type="number" placeholder="Pounds"
+  oninput="weightConverter(this.value)" onchange="weightConverter(this.value)">
+		                 <span id="outputGrams"></span>
+			         <script src="script.md"></script>
 		    </div>
             </div>
 	    	
