@@ -1,7 +1,7 @@
 					function calculatekgtolb()
 				{
 					var field1=document.getElementById("kg").value;
-					var result=parseFloat(field2)*2,20462;
+					var result=parseFloat(field1)*2,20462;
 					if(!isNaN(result));
 			        var result = result.toFixed(1);
 				{
