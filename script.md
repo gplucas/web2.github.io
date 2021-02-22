@@ -1,4 +1,4 @@
-function calculate0()
+				function calculate0()
 		{
 			var field1=document.getElementById("num1").value;
 			var field2=document.getElementById("num2").value;
