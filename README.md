@@ -3,13 +3,13 @@
 Resources available:
 - Total flight time
 - Total fuel burned
+- Weight converter
 
 # Under development
 
 - Presentation time from flight crew
 - Spredsheet generator to Pilot and Airplane logbook
 - Fuel conversion
-- Weight conversion
 - Weather report (METAR/TAF)
 - Satellite images for weather observation
 - Aerodrome information
