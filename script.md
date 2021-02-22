@@ -20,8 +20,3 @@ function calculate0()
 				document.getElementById("answer1").innerHTML="Total fuel burned "+result;
 			}
 		}
-
-function weightConverter(valNum) 
-{
-  document.getElementById("outputGrams").innerHTML = valNum / 0.0022046;
-}
