@@ -75,6 +75,7 @@
   width: 30%;
   padding: 10px;
   float: left;
+  border-radius: 10px;
 }
 
 .avgasfuel {
@@ -84,4 +85,5 @@
   width: 30%;
   padding: 10px;
   float: left;
+  border-radius: 10px;
 }
