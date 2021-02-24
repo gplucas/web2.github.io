@@ -72,4 +72,12 @@
   background-color: black;
   color: white;
   border: 1px solid white;
+  width: 30%;
+}
+
+.avgasfuel {
+  background-color: red;
+  color: white;
+  border: 1px solid white;
+  width: 30%;
 }
