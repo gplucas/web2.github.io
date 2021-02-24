@@ -67,3 +67,9 @@
   text-align: center;
   background: #B0C4DE;
 }
+
+.jetfuel {
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+}
