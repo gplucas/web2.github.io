@@ -73,6 +73,7 @@
   color: white;
   border: 1px solid white;
   width: 30%;
+  padding: 10px;
 }
 
 .avgasfuel {
@@ -80,4 +81,5 @@
   color: white;
   border: 1px solid white;
   width: 30%;
+  padding: 10px;
 }
