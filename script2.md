@@ -17,3 +17,18 @@ function fuelConverterkgstousgal1(valNum)
 {
   document.getElementById("outputUsGalAvgas3").innerHTML=valNum*0.36;
 }
+
+function fuelConverterusgaltokilograms(valNum)
+{
+  document.getElementById("outputKilogramsAvgas3").innerHTML=valNum*2.81;
+}
+
+function fuelConverterusgaltopounds(valNum)
+{
+  document.getElementById("outputPoundsAvgas3").innerHTML=valNum*6.20;
+}
+
+function fuelConverterusgaltoliters(valNum)
+{
+  document.getElementById("outputLitersAvgas2").innerHTML=valNum*3.79;
+}
