@@ -12,3 +12,8 @@ function fuelConverterkgstoliters1(valNum)
 {
   document.getElementById("outputLitersAvgas3").innerHTML=valNum*1.35;
 }
+
+function fuelConverterkgstousgal1(valNum)
+{
+  document.getElementById("outputUsGalAvgas3").innerHTML=valNum*0.36;
+}
