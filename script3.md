@@ -32,3 +32,18 @@ function fuelConverterltstokgs(valNum)
 {
   document.getElementById("outputKgs2").innerHTML=valNum*0.80;
 }
+
+function fuelConverterusgaltolts(valNum)
+{
+  document.getElementById("outputLiters2").innerHTML=valNum*3.79;
+}
+
+function fuelConverterusgaltolbs(valNum)
+{
+  document.getElementById("outputPounds3").innerHTML=valNum*6.70;
+}
+
+function fuelConverterusgaltokgs(valNum)
+{
+  document.getElementById("outputKgs3").innerHTML=valNum*3.04;
+}
