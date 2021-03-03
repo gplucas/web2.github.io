@@ -47,3 +47,18 @@ function fuelConverterusgaltokgs(valNum)
 {
   document.getElementById("outputKgs3").innerHTML=valNum*3.04;
 }
+
+function fuelConverteruskgstousgal(valNum)
+{
+  document.getElementById("outputUsGal3").innerHTML=valNum*0.33;
+}
+
+function fuelConverteruskgstolbs(valNum)
+{
+  document.getElementById("outputPounds4").innerHTML=valNum*2.21;
+}
+
+function fuelConverteruskgstolts(valNum)
+{
+  document.getElementById("outputLiters3").innerHTML=valNum*1.25;
+}
