@@ -17,5 +17,3 @@ Resources available:
 # Bonus
 
 - Beechcraft Baron G58 Pilot's Operating Handbook
-
-Work in progress since December 27, 2020.
